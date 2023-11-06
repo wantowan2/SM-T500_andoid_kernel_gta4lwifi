@@ -127,6 +127,7 @@ signing_key.x509
 x509.genkey
 authkey
 authkey.pub
+verity_dev_keys.x509
 
 # Kconfig presets
 all.config
